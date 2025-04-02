@@ -21,7 +21,7 @@ A simple and efficient task management application built with Laravel and Docker
 1. Clone the repository:
 
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/PositivWarrior/task-list]
 cd task-list
 ```
 
